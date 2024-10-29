@@ -1,0 +1,26 @@
+{
+  "name": "time-matrix-app",
+  "version": "1.0.0",
+  "description": "A Simple web based app of FranklinCovey Time Matrix",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "time-matrix",
+    "todo",
+    "crud",
+    "web",
+    "javascript",
+    "nodejs",
+    "express"
+  ],
+  "author": "Joao Emanuel Monica Rolo",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
+    "mongoose": "^8.7.3",
+    "nodemon": "^3.1.7"
+  }
+}
